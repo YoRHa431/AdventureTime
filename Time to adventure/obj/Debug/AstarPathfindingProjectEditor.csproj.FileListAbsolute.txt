@@ -1,0 +1,2 @@
+C:\Учёба 4 курс\Преддипломная практика\Time to adventure\obj\Debug\AstarPathfindingProjectEditor.csproj.AssemblyReference.cache
+C:\Учёба 4 курс\Преддипломная практика\Time to adventure\obj\Debug\AstarPathfindingProjectEditor.csproj.CoreCompileInputs.cache

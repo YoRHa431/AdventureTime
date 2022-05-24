@@ -1,0 +1,2 @@
+C:\Учёба 4 курс\Преддипломная практика\Time to adventure\obj\Debug\PackageToolsEditor.csproj.AssemblyReference.cache
+C:\Учёба 4 курс\Преддипломная практика\Time to adventure\obj\Debug\PackageToolsEditor.csproj.CoreCompileInputs.cache
